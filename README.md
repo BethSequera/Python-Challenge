@@ -38,7 +38,7 @@ In the PyPoll project, the objective is to help a small, rural town modernize it
 - The total number of votes each candidate won.
 - The winner of the election based on popular vote.
 
-Try to run it as a "Debug Python file and the analysis will be printed to the terminal and exported to a text file. 
+Try to run it as a "Debug Python file" and the analysis will be printed to the terminal and exported to a text file. 
 
 ## Getting Started
 
